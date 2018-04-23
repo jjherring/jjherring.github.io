@@ -114,6 +114,10 @@ html, body {
   padding: 24px;
   border-radius: 0 0 2px 2px; }
 
+@media all and (max-width: 800px) {
+  .card {
+    width: 100%; } }
+
 .btn-primary {
   background-color: #009494;
   color: white; }
